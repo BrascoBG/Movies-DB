@@ -1,3 +1,7 @@
+# Netflix Clone (trailers)
+
+Reading data from TMDB API and showing movie trailers with YouTube React and Movie Trailer packages.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
