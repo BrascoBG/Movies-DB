@@ -2,6 +2,10 @@
 
 Reading data from TMDB API and showing movie trailers with YouTube React and Movie Trailer packages.
 
+![Netflix Main](https://github.com/BrascoBG/Movies-DB/blob/master/src/assets/screenshots/main.jpg?raw=true)
+
+![Netflix Trailer](https://github.com/BrascoBG/Movies-DB/blob/master/src/assets/screenshots/trailers.jpg?raw=true)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
